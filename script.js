@@ -1,4 +1,4 @@
-
+/*
 (function() {
     // ========== DETECT REACHING THE END OF PROFILE ==========
     const endElement = document.getElementById('endOfProfile');
@@ -137,3 +137,4 @@
     // optional: smooth class for any interaction
     console.log("Black & Red Profile — Ready | No action buttons, only socials.");
 })();
+*/
